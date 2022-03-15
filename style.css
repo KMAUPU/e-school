@@ -1,0 +1,28 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    width:100px;
+}
+.main-head .head{
+    color:#FD511A;
+
+}
+span{
+    color: #21B573;
+}
+.main-head h1{
+    font-weight: 700;
+}
+.gstart{
+    background-image: linear-gradient(to bottom, #21B573,#21B573);
+    color:white;
+    border:none;
+    border-radius: 10px;
+    padding: 5px 15px 2px 15px;
+    cursor: pointer;
+}
+.header{
+    background-color:  #F0FFF0;
+    height: 500px;
+}
